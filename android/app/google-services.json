@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "322023584170",
+    "project_id": "clone-bamtol-app",
+    "storage_bucket": "clone-bamtol-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322023584170:android:f52870d0b8d9dfdd1dbbd3",
+        "android_client_info": {
+          "package_name": "com.example.bamtol_market_study"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322023584170-4ipsag4rv4hekf3e28l78o3q6vdf469d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bamtol_market_study",
+            "certificate_hash": "5013c721aaf589827ea6e50152ec19d7d8f6b0c2"
+          }
+        },
+        {
+          "client_id": "322023584170-t69dilkiahsmqroavjm2gf43sel71kf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6H8NYxg8OPE04jwbhN4j2gkaLCoBqo-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322023584170-t69dilkiahsmqroavjm2gf43sel71kf0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "322023584170-ih4hrag7b5kcqo42t7gdskc383vbh4br.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bamtolMarketStudy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
